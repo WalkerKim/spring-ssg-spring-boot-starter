@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  kim.figure.spring.ssg.autoconfigure.SsgAutoconfiguration

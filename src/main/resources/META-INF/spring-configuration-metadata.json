@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "dist.path",
+      "type": "java.lang.String",
+      "description": "path of ssg dist folder"
+    }
+  ]
+}
